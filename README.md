@@ -1,2 +1,2 @@
-# SpaceAnalysis
-Space Analysis Tools
+# Spacial Analysis
+Spacial Analysis Tools
